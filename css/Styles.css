@@ -7,7 +7,7 @@ body {
 input[type=text] {
     width: 100%;
     padding: 12px 20px;
-    margin: 8px 0;
+    margin: 0px;
     box-sizing: border-box;
 }
 
@@ -38,7 +38,7 @@ li a:hover {
 
 
 #paa{
-    width: 75%; height: 500px; margin-left:auto; margin-right:auto; background-color: #da15f1;} 
+    width: 75%; height: 500px; margin-left:auto; margin-right:auto; margin-top:0px; background-color: #da15f1;} 
 
 #content {
     
@@ -55,12 +55,3 @@ h1 {
     padding: 0px;
     color:white;
 }
-
-p {
-   background-color: red;
-   font-family: verdana;
-    font-size: 5px; 
-}
-    
-
-
