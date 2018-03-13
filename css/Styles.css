@@ -44,18 +44,11 @@ li a:hover {
     background-color: #111;
 }
 
-.tausta { 
-color:yellow; height:300px; width:100%;
-}
 
 #paa{
-    width: 75%; height: 500px; margin-left:auto; margin-right:auto; margin-top:0px; background-color: #da15f1; 
+    width: 50%; height: 800px; margin-left:auto; margin-right:auto; margin-top:0px; background-color: #da15f1; 
 } 
-
-#content {
-    
-    width: 75%; height: 400px; margin-left:auto; margin-right:auto; background-color: #16efcb; <iframe width="560" height="315" src="https://www.youtube.com/embed/f9C_M4b4NRk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-} 
+ 
 }
 
 #footer {
