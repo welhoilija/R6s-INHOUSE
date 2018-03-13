@@ -3,7 +3,7 @@ body {
 }
 
 h1 {
-    background-color: #F1F1F1;
+    background-color: black;
     text-align: center;
     padding: 20px;
 }
@@ -11,12 +11,9 @@ h1 {
 
 
 p {
+   background-color: red;
    font-family: verdana;
    font-size: 20px;
 }
 
-#testipalkki { 
-    background color: black;
-    height: 100px;
-    width: 1920px;
-}
+
