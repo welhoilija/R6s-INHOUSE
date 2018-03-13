@@ -5,12 +5,12 @@ body {
 }
 
 #paa{
- width: 75%; height: 500px; margin: 0px; background-color: #da15f1; 
+ width: 75%; height: 500px; margin-left:auto; margin-right:auto; background-color: #da15f1; 
 }
 
 #content {
     
-    width: 75%; height: 500px; margin: 0px; background-color: #16efcb;
+    width: 75%; height: 500px; margin-left:auto; margin-right:auto; background-color: #16efcb;
 }
 
 #footer {
