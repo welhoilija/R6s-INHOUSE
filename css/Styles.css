@@ -3,11 +3,7 @@ body {
     margin:0px;
     padding:0px;
 }
-
-#paa{
- width: 75%; height: 500px; margin-left:auto; margin-right:auto; background-color: #da15f1; 
-    
-    
+  
 }
 
 ul {
@@ -33,6 +29,8 @@ li a {
 li a:hover {
     background-color: #111;
 }
+#paa{
+    width: 75%; height: 500px; margin-left:auto; margin-right:auto; background-color: #da15f1;} 
 
 #content {
     
