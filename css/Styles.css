@@ -1,0 +1,22 @@
+body {
+    background-color: red;
+}
+
+h1 {
+    color: #ccc;
+    margin-bottom: 100px;
+    
+    text-align: center;
+}
+
+
+p {
+   font-family: verdana;
+   font-size: 20px;
+}
+
+#testipalkki { 
+    background color: black;
+    height: 100px;
+    width: 1920px;
+}
