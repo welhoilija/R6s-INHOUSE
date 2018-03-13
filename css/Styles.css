@@ -48,3 +48,19 @@ p {
 }
 
 
+#paa{
+ width: 75%; height: 500px; margin: 0px; background-color: #da15f1; 
+}
+
+#content {
+    
+    width: 75%; height: 500px; margin: 0px; background-color: #16efcb;
+}
+
+#footer {
+   width: 100%; height: 300px; background-color: #ff6a00;
+   margin: 0px;
+   
+    
+}
+
