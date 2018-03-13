@@ -53,6 +53,7 @@ li a:hover {
    margin: 0px; font-family:verdana; font-size 20px; color:white;}
 
 h1 {
+    border-radius: 15px;
     background-color: black;
     text-align: center;
     padding: 50px;
