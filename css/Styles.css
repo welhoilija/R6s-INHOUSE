@@ -51,12 +51,12 @@ li a:hover {
 
 #content {
     
-    width: 75%; height: 500px; margin-left:auto; margin-right:auto; background-color: #16efcb; <iframe width="560" height="315" src="https://www.youtube.com/embed/f9C_M4b4NRk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    width: 75%; height: 400px; margin-left:auto; margin-right:auto; background-color: #16efcb; <iframe width="560" height="315" src="https://www.youtube.com/embed/f9C_M4b4NRk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 } 
 }
 
 #footer {
-   width: 100%; height: 300px; background-color: #424447;
+   width: 100%; height: 100px; background-color: #424447;
    margin: 0px; font-family:verdana; font-size 20px; color:white;}
 
 h1 {
