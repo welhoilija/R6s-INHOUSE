@@ -60,4 +60,37 @@ h1 {
     color:white;
 }
 
+/* Nappi*/
+.dropbtn{ 
+background-color:white; 
+color:white;
+    padding:16px;
+    border:none;
+}
+
+.dropdown{
+position:relative;
+    display:inline-block;
+   
+}
+/* Links inside the dropdown */
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+/* Change color of dropdown links on hover */
+.dropdown-content a:hover {background-color: #ddd}
+
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+/* Change the background color of the dropdown button when the dropdown content is shown */
+.dropdown:hover .dropbtn {
+    background-color: #3e8e41;
+}
 
