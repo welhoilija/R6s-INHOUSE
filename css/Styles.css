@@ -1,5 +1,5 @@
 body {
-    background="tausta.jpg" no-repeat;
+    background=url(tausta.jpg) no-repeat;
     background-color: white;
     margin:0px;
     padding:0px;
