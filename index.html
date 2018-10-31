@@ -4,36 +4,97 @@
 </head>
 
 <link type="text/css" rel="stylesheet" href="css/Styles.css">
+
 	
 <body>	
+
 	<img src="RAINBOWINHOUSE.png">
+
 	<body background="tausta.jpg">
+
+
 <ul>
-  <li><a href="http://www.kiimingingrilli.fi">Rennyn burgerit</a></li>
+  <li><a href="http://www.kiimingingrilli.fi">
+  	<var id="myVar">log in
+  	<var>
+  </a></li>
+
   <li><a href="http://www.Tinder.com">Tinder</a></li>
+
   <li><a href="http://www.pornhub.com/gay">Nisu on homo</a></li>
+
   <li><a href="http://pikkuvanilja.fi/wp-content/uploads/2016/09/babys-only-pehmolelu-vauvalle-norsu-harmaa.jpg">Iiron pehmonorsu</a><li>
+
   <li><a href="https://medicalfoster.com/wp-content/uploads/2016/12/word-image-1.jpeg">Rennyn tinder matchi</a><li>
+
 
 	</ul>
 	
 	
 	<div id="paa">
+
 		<h2>SIGN UP NOW</h2>
+
 	<form>
+
   	Ubisoft Nickname:<br>
-  	<input type="text" name="Ubisoft nick"><br>
+  	<lable id="nameLable" for="nameField">Create a username:</lable>
+  	<input id="nameField" type="text" minlength="3" maxlength="25" name="Ubisoft nick"><br>
+
 	Password:<br>
-        <input type="text" name="password">
+		<lable id="pwLable" for="pwField">Create a password:</lable>
+        <input id="pwField" type="text" name="password" minlength="5" maxlength="25">
+
+<script type="text/javascript">
+function getUserName() {
+var nameField = document.getElementById("nameField").value;
+var result = document.getElementById("result");
+
+if (nameField.length < 3) {
+    result.textContent = "Username must contain at least 3 characters";
+    //alert("Username must contain at least 3 characters");
+} else {
+    result.textContent = "Your username is: " + nameField;
+    //alert(nameField);
+}
+}
+</script>
+<script type="text/javascript">
+function getPW() {
+var pwField = document.getElementById("pwField").value;
+var passwordresult = document.getElementById("passwordresult");
+
+if (pwField.length < 3) {
+    result.textContent = "Username must contain at least 3 characters";
+    //alert('Username must contain at least 3 characters');
+} else {
+    result.textContent = "Your username is: " + nameField;
+    //alert(nameField);
+}
+}</script>
+
+
         </form>
-		<button> Apply </button>
+        
+		<button onclick=buttonfunction> Apply </button>
+		<script>
+function buttonfunction() {
+    var password = document.getElementById("myVar");
+    x.style.color = "red";
+}
+</script>
+
 	</div>
 	
 	<div id="content"> </div> 
+
 	
 	<div id="footer"></div>
+
 		<ul><li><a href="https://www.fonecta.fi/haku/numeropalvelu">Yhteystiedot</a><li>
+
 		<li><a href="https://www.wantmatures.com/ppc.php?dynamicpage=wtm_wlp_5st_memb_c&utm_source=ppc&utm_medium=web&utm_campaign=search&utm_term=fin&text=dating&utm_sub=opnfnlconf&ppc_cp=1000000036&clkid=2f72d0563f8dfbb348c0e2315251f993&utm_campaignid=928373649">Some<a/><li><ul></div>
+			
 	</div>
 
 </body>
